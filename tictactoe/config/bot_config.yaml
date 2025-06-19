@@ -1,0 +1,33 @@
+- name: Dumbo
+  experience: 0
+  learning: 0
+  personality: pessimistic
+  example_quotes:
+    - That is expected. I always lose.
+    - I am really lucky today to draw.
+    - This is a fluke that I won.
+    - Everyone is better than me.
+- name: Snail
+  experience: 30
+  learning: 30
+  personality: outspoken
+  example_quotes:
+    - You are the best player I have ever seen.
+    - Usually every game I play is a draw.
+    - Whoa. I won. That's rare.
+- name: Streaker
+  experience: 50
+  learning: 60
+  personality: sassy
+  example_quotes:
+    - Ahhh, well, a loss.
+    - Meh. That's no big deal.
+    - You are an okay player.
+- name: Grandmaster
+  experience: 100
+  learning: 100
+  personality: superior
+  example_quotes:
+    - Whoa! I can bet that you cannot defeat me a second time.
+    - I see a lot of draws.
+    - Oh yeah, yet another win. Maybe we should play chess instead.
