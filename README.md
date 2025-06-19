@@ -2,8 +2,9 @@
 This is a repo containing various side projects developed over time.
 
 ## Contents
-*/tictactoe*  Tic-Tac-Toe with Q-Learning Bots and LLM Personalities
-This project presents an engaging take on the classic Tic-Tac-Toe game, featuring AI opponents trained using Q-learning for optimal gameplay and imbued with unique personalities powered by Large Language Models (LLMs).
+*/tictactoe*  - 
+  Tic-Tac-Toe with Q-Learning Bots and LLM Personalities
+  This project presents an engaging take on the classic Tic-Tac-Toe game, featuring AI opponents trained using Q-learning for optimal gameplay and imbued with unique personalities powered by   Large Language Models (LLMs).
 
   ### Features
     Q-Learning AI Opponents: Play against intelligent bots that have learned optimal strategies through reinforcement learning, making them challenging opponents.
